@@ -13,7 +13,7 @@ int getFirstBit(int n){
 
 int main(){
 	int n;
-	cout << "Take input number : " << endl;
+	cout << "Take input number : " ;
 	cin >> n;
 	cout << getFirstBit(n) << endl ;
 	
