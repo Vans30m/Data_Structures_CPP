@@ -16,11 +16,11 @@ int main(){
 	
 	cout << "The Missing Number is : " << MissNum;
 }
-
-/* XOR Operator :
-
-n^n = m^m = 0 ;
-
-n^m = m^n = 1 ;
-
-0^n = n and 0^m = m
+//
+//XOR Operator :
+//
+//n^n = m^m = 0 ;
+//
+//n^m = m^n = 1 ;
+//
+//0^n = n and 0^m = m
